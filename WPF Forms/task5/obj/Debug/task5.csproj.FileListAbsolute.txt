@@ -1,0 +1,28 @@
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\bin\Debug\task5.exe.config
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\bin\Debug\task5.exe
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\bin\Debug\task5.pdb
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\task5.csprojAssemblyReference.cache
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\MainWindow.g.cs
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\App.g.cs
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\task5_MarkupCompile.cache
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\task5_MarkupCompile.lref
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\MainWindow.baml
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\task5.g.resources
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\task5.Properties.Resources.resources
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\task5.csproj.GenerateResource.cache
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\task5.exe
+D:\My\PUCIT\semester 7\EAD\Assignments\assignment 1\task5\task5\obj\Debug\task5.pdb
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\bin\Debug\task5.exe.config
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\bin\Debug\task5.exe
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\bin\Debug\task5.pdb
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\task5.csprojAssemblyReference.cache
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\MainWindow.g.cs
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\App.g.cs
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\task5_MarkupCompile.cache
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\task5_MarkupCompile.lref
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\MainWindow.baml
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\task5.g.resources
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\task5.Properties.Resources.resources
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\task5.csproj.GenerateResource.cache
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\task5.exe
+D:\My\PUCIT\semester 7\EAD\before mids\Assignments\assignment 1\task5\task5\obj\Debug\task5.pdb
